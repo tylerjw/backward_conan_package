@@ -1,0 +1,10 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/tyler/code/conan-center-index/recipes/backward-cpp/all/test_package/build/gcc-11-x86_64-gnu17-release/generators/CMakePresets.json",
+        "/home/tyler/code/backward_conan_package/test_package/build/gcc-11-x86_64-gnu17-release/generators/CMakePresets.json"
+    ]
+}
